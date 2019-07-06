@@ -1,0 +1,82 @@
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 72px);
+  padding-bottom: 7rem;
+  background-image: linear-gradient(to right top, #ff2719, #f12217, #e31d16, #d61714, #c81212);
+  background-position: 50%;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+header.masthead .bg-circle {
+  z-index: 0;
+  position: absolute;
+  border-radius: 100%;
+  background: linear-gradient(0deg,#ff2719,#BA0000);
+}
+
+.bg-dark {
+  background-color: #181515;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Catamaran;
+  font-weight: 100!important;
+}
+
+b, strong {
+  font-weight: 800;
+}
+
+header.masthead .masthead-content .masthead-subheading {
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: #BA0000!important;
+  border-color: #BA0000!important;
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  white-space: nowrap;
+}
+
+a {
+  color: #ff2719;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+  color: #423E4A;
+  text-decoration: underline;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem #181515);
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn-primary:focus {
+  box-shadow: initial;
+}
+
+.btn-primary {
+  border-color: #181515;
+}
+
