@@ -6,7 +6,7 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge)
 
 
-#### This static website is built for the CureIO Open Source Organization. It is made with Bootstrap Studio (Education Edition) and exported in HTML & CSS.
+#### This static website is built for the CureIO Open Source Organization. It is made with Bootstrap Studio (Education Edition) and exported in HTML, JavaScript & CSS.
 
 ## Contributing
 Pull requests are welcome and greatly appreciated. If you need help open an issue and we will provide support ASAP. Before contributing make sure you open an issue explaining your changes before performing any work. Thanks in advance for your support!
